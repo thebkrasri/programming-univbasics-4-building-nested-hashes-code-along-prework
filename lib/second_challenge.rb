@@ -10,8 +10,10 @@ def second_challenge
       #your key/value pairs here!
        patriarch: {},
       matriarch: {},
-      hero: {};
+      hero: {},
       heroine_friends: []
-      }}
+      }
+    
+  }
   
 end
